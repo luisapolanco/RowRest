@@ -1,0 +1,51 @@
+
+l
+java:S2095—"IUse try-with-resources or close this "PrintWriter" in a "finally" clause.(ìï²Úşÿÿÿÿ8Íş•ÒÌ/
+Z	java:S106~"9Replace this use of System.out or System.err by a logger.(ıˆŒµøÿÿÿÿ8Íş•ÒÌ/
+f
+java:S2095Z"IUse try-with-resources or close this "PrintWriter" in a "finally" clause.(É‘õİ8Íş•ÒÌ/
+[	java:S106·"9Replace this use of System.out or System.err by a logger.(ıˆŒµøÿÿÿÿ8Íş•ÒÌ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(îÖÀãúÿÿÿÿ8“£ÖĞÌ/
+[	java:S106"9Replace this use of System.out or System.err by a logger.(éÃÚ£üÿÿÿÿ8Íş•ÒÌ/
+U	java:S106x"9Replace this use of System.out or System.err by a logger.(­×€Ò8Íş•ÒÌ/
+?
+java:S1116†"Remove this empty statement.(Ó§è®úÿÿÿÿ8®–ÒÌ/
+R
+java:S1481$"0Remove this unused "restaurante" local variable.(˜ƒò¢øÿÿÿÿ8Íş•ÒÌ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¹Ûä8°™İĞÌ/
+U	java:S106±"9Replace this use of System.out or System.err by a logger.(îÔõ)8Íş•ÒÌ/
+U
+java:S1481"2Remove this unused "detallePedido" local variable.(£şæûÿÿÿÿ8Íş•ÒÌ/
+Z	java:S106r"9Replace this use of System.out or System.err by a logger.(¸æûŠıÿÿÿÿ8Íş•ÒÌ/
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(ÜñŠü8Ô¼äĞÌ/
+M
+java:S2093”"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ8Íş•ÒÌ/
+
+java:S1488À"\Immediately return this expression instead of assigning it to the temporary variable "menu".(À¼ãøÿÿÿÿ8Íş•ÒÌ/
+U	java:S106N"9Replace this use of System.out or System.err by a logger.(ÜñŠü8Íş•ÒÌ/
+Z	java:S106|"9Replace this use of System.out or System.err by a logger.(—Ÿ£ÿÿÿÿÿ8Íş•ÒÌ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ä¼»ûÿÿÿÿ8¡›ÚĞÌ/
+Z	java:S106v"9Replace this use of System.out or System.err by a logger.(í­èÚşÿÿÿÿ8Íş•ÒÌ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ô¶ÒÈ8Ô¼äĞÌ/
+V	java:S106¯"9Replace this use of System.out or System.err by a logger.(æ‰Èï8Íş•ÒÌ/
+[	java:S106­"9Replace this use of System.out or System.err by a logger.(š¸Íùÿÿÿÿ8Íş•ÒÌ/
+J
+java:S1481",Remove this unused "reserva" local variable.(‚¤î‹8Íş•ÒÌ/
+Z	java:S106J"9Replace this use of System.out or System.err by a logger.(ä¼»ûÿÿÿÿ8Íş•ÒÌ/
+L
+java:S2093W"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ8Íş•ÒÌ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ĞÌÏš8”—ßĞÌ/
+F
+java:S1481P")Remove this unused "menu" local variable.(„œğ£8Íş•ÒÌ/
+Z	java:S106D"9Replace this use of System.out or System.err by a logger.(îÖÀãúÿÿÿÿ8Íş•ÒÌ/
+k
+java:S2095,"IUse try-with-resources or close this "PrintWriter" in a "finally" clause.(»’ùúÿÿÿÿÿ8Íş•ÒÌ/
+Z	java:S106t"9Replace this use of System.out or System.err by a logger.(™†ş¹ûÿÿÿÿ8Íş•ÒÌ/
+Z	java:S106H"9Replace this use of System.out or System.err by a logger.(üÍÚ˜ÿÿÿÿÿ8Íş•ÒÌ/
+H
+java:S1481R",Remove this unused "cliente" local variable.(ñ’°N8Íş•ÒÌ/
+[	java:S106µ"9Replace this use of System.out or System.err by a logger.(—Ÿ£ÿÿÿÿÿ8Íş•ÒÌ/
+L
+java:S2093)"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ8Íş•ÒÌ/
+U	java:S106L"9Replace this use of System.out or System.err by a logger.(Ô¶ÒÈ8Íş•ÒÌ/
+U	java:S106F"9Replace this use of System.out or System.err by a logger.(Æä•÷8Íş•ÒÌ/
