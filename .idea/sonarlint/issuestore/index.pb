@@ -1,22 +1,4 @@
 
-D
-Java/src/Bebida.java,f\4\f446887d05aff291b45d6731e5225476e3fdc488
-E
-Java/src/Cliente.java,e\8\e8dca0183087c179051e4d097f139c633a69ba0b
-K
-Java/src/DetallePedido.java,d\0\d04a783d80577288399795317e38d0e0ba5b6801
-B
-Java/src/Menu.java,4\9\49787ce30099db37344cc83e24a086bc1d92a6a1
-C
-Java/src/Plato.java,9\5\95fa32db8946bdba50383502b031ec553a74c7cd
-E
-Java/src/Reserva.java,5\5\5510dbf1b143013ca85b18e34ff15e08b33ab9cc
-I
-Java/src/Restaurante.java,0\8\08e702930754a70df52b8be6f33bc69c4e883f80
-E
-Java/src/Usuario.java,c\1\c166c082f940234502835e67e03cc8f11bc830a8
-D
-Java/src/Pedido.java,e\f\ef14d8be5b4ea1c84aadbd83a915b83de20c565f
 L
 Java/src/dominio/Bebida.java,a\8\a842bd82bd45b8588b4fbc77db996f9204dbf301
 S
@@ -39,3 +21,5 @@ L
 Java/src/dominio/Pedido.java,5\1\51b08b2a1ea6b082b11697c7f40b283e23501536
 L
 Java/src/main/Principal.java,d\7\d72e51d24cbb61f77e127e7de439dc8d089a843c
+;
+cliente.txt,4\2\424626d0d7afdb325da2d384d28e858d6531904a

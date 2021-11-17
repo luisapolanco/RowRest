@@ -1,0 +1,23 @@
+Nombre restaurante: Caprichosas
+Teléfono restaurante: 656556
+Ubicación restaurante: Allí
+Nit restaurante: 85545
+Menú restaurante: dominio.Menu@25bbe1b6
+Nombre de usuario restaurante: caprichositas
+Contraseña restaurante: dfadf
+--------------------------------
+Menu 
+---------------------------------------------------
+Nombre plato: papasmexicanas
+Descripcion plato: dfdfdff
+Precio plato: 52622.0
+---------------------------------------------------
+Nombre plato: papasdulces
+Descripcion plato: fdfdsfsd
+Precio plato: 45622.0
+---------------------------------------------------
+Nombre bebida: gaseosa
+Precio bebida: 65282.0
+---------------------------------------------------
+Nombre bebida: jugonaranja
+Precio bebida: 9652.0

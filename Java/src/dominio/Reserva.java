@@ -7,6 +7,9 @@ public class Reserva {
         this.cantidadDePersonas = cantidadDePersonas;
     }
 
+    public Reserva() {
+    }
+
     public int getCantidadDePersonas() {
         return cantidadDePersonas;
     }

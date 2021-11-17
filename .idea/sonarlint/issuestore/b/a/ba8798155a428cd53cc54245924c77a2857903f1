@@ -1,6 +1,16 @@
 
-v
-java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(¿€åûÿÿÿÿ8Š¼äÏÌ/
+Z	java:S106>"9Replace this use of System.out or System.err by a logger.(±­òÑúÿÿÿÿ8í•ö Ò/
 v
 java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(ƒß¶Èÿÿÿÿÿ8Š¼äÏÌ/
-b	java:S107"AConstructor has 8 parameters, which is greater than 7 authorized.(Ïìç»ùÿÿÿÿ8²¾õĞÌ/
+]	java:S107"AConstructor has 8 parameters, which is greater than 7 authorized.(­áÿÆ8²¾õĞÌ/
+Z	java:S106F"9Replace this use of System.out or System.err by a logger.(Ê³Œ“ıÿÿÿÿ8í•ö Ò/
+v
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(¿€åûÿÿÿÿ8Š¼äÏÌ/
+U	java:S106D"9Replace this use of System.out or System.err by a logger.(›Ï’¼8í•ö Ò/
+k
+java:S2095R"IUse try-with-resources or close this "PrintWriter" in a "finally" clause.(»’ùúÿÿÿÿÿ8í•ö Ò/
+U	java:S106<"9Replace this use of System.out or System.err by a logger.(£¹Åú8í•ö Ò/
+Z	java:S106B"9Replace this use of System.out or System.err by a logger.(¼öÔƒıÿÿÿÿ8í•ö Ò/
+L
+java:S2093O"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ8í•ö Ò/
+U	java:S106@"9Replace this use of System.out or System.err by a logger.(÷˜»®8í•ö Ò/

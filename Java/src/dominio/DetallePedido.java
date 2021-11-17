@@ -9,6 +9,9 @@ public class DetallePedido {
         this.detallePlato = detallePlato;
     }
 
+    public DetallePedido() {
+    }
+
     public Map<Plato, String> getDetallePlato() {
         return detallePlato;
     }

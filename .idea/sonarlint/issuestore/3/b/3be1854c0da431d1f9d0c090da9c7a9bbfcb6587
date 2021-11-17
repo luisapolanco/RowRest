@@ -1,0 +1,13 @@
+
+f
+java:S2095C"IUse try-with-resources or close this "PrintWriter" in a "finally" clause.(É‘õİ8Ò¾÷ Ò/
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(îÖÀãúÿÿÿÿ8Ò¾÷ Ò/
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(Æä•÷8Ò¾÷ Ò/
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(üÍÚ˜ÿÿÿÿÿ8Ò¾÷ Ò/
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(ä¼»ûÿÿÿÿ8Ò¾÷ Ò/
+U	java:S1066"9Replace this use of System.out or System.err by a logger.(Ô¶ÒÈ8Ò¾÷ Ò/
+U	java:S1068"9Replace this use of System.out or System.err by a logger.(ÜñŠü8Ò¾÷ Ò/
+L
+java:S2093@"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ8Ò¾÷ Ò/
+H
+java:S1481;",Remove this unused "cliente" local variable.(ñ’°N8Ò¾÷ Ò/

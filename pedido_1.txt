@@ -1,0 +1,12 @@
+RESTAURANTE: Caprichosas
+Nombre cliente: Luisa
+---------------------------------------------------
+Nombre plato: papasmexicanas
+Descripcion plato: jdjjd
+Precio plato: 96523.0
+Detalle plato: [dominio.Plato@29ca901e=sinsalsa]
+---------------------------------------------------
+Nombre bebida: jugodenaranja
+Precio bebida: 5622.0
+---------------------------------------------------
+Personas en el restaurante: 1

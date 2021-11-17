@@ -1,0 +1,6 @@
+Nombre cliente: luisa
+Correo cliente: lui@
+Celular cliente: 525445
+Dirección cliente: Allí
+Nombre de usuario cliente: luipola
+Contraseña cliente: oopop

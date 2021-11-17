@@ -1,0 +1,6 @@
+Nombre cliente: luisa
+Correo cliente: lui
+Celular cliente: 524524}
+Dirección cliente: Allí
+Nombre de usuario cliente: caprichositas
+Contraseña cliente: dfsdfsdf

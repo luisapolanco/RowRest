@@ -1,16 +1,36 @@
 
+Z	java:S106W"9Replace this use of System.out or System.err by a logger.(îÖÀãúÿÿÿÿ8Üƒô«Ò/
 K
-java:S1121@".Extract the assignment out of this expression.(âÒïâ8…šˆË/
-]
-java:S1854B";Remove this useless assignment to local variable "mensaje".(ø¤±Öıÿÿÿÿ8äˆË/
-U	java:S1068"9Replace this use of System.out or System.err by a logger.(©ıçğ8Øä˜ˆË/
-E
-java:S1172;"(Remove this unused method parameter "p".(ªµ”ı8äğü‡Ë/
-J
-java:S11727"(Remove this unused method parameter "p".(¶ß¨Üøÿÿÿÿ8Øä˜ˆË/
+java:S1121C".Extract the assignment out of this expression.(âÒïâ8…šˆË/
+M
+java:S2093Œ"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ8ãÏõªÒ/
+—
+java:S1192”"tDefine a constant instead of duplicating this literal "---------------------------------------------------" 3 times.(ÉÄØ¶ıÿÿÿÿ8ç™Á«Ò/
 a
-java:S2583?"DChange this condition so that it does not always evaluate to "false"(ªÑ’Õ8œ“ÿ‡Ë/
-P
-java:S1121B".Extract the assignment out of this expression.(ø¤±Öıÿÿÿÿ8äˆË/
+java:S2583B"DChange this condition so that it does not always evaluate to "false"(ªÑ’Õ8œ“ÿ‡Ë/
+U	java:S106;"9Replace this use of System.out or System.err by a logger.(©ıçğ8Øä˜ˆË/
+>	java:S131b""Add a default case to this switch.(°€àâ8¿¸òªÒ/
+Z	java:S106^"9Replace this use of System.out or System.err by a logger.(òÛÖ™ùÿÿÿÿ8ˆøğªÒ/
+Z	java:S106]"9Replace this use of System.out or System.err by a logger.(½ÕÈ¬şÿÿÿÿ8Ç™şªÒ/
+Z	java:S106v"9Replace this use of System.out or System.err by a logger.(ıˆŒµøÿÿÿÿ8˜ßöªÒ/
+U	java:S106d"9Replace this use of System.out or System.err by a logger.(¡Ñò8Š¡ôªÒ/
+T	java:S106U"9Replace this use of System.out or System.err by a logger.(”²—K8ÓŸñ«Ò/
+U	java:S106j"9Replace this use of System.out or System.err by a logger.(­×€Ò8Š¡ôªÒ/
+]
+java:S1854E";Remove this useless assignment to local variable "mensaje".(ø¤±Öıÿÿÿÿ8äˆË/
+J
+java:S1172:"(Remove this unused method parameter "p".(¶ß¨Üøÿÿÿÿ8Øä˜ˆË/
+U	java:S106\"9Replace this use of System.out or System.err by a logger.(•â—ù8ˆøğªÒ/
 X
-java:S1854@";Remove this useless assignment to local variable "mensaje".(âÒïâ8±Í‹ˆË/
+java:S1854C";Remove this useless assignment to local variable "mensaje".(âÒïâ8±Í‹ˆË/
+Z	java:S106["9Replace this use of System.out or System.err by a logger.(Ğ°İ¨ûÿÿÿÿ8ˆøğªÒ/
+P
+java:S1121E".Extract the assignment out of this expression.(ø¤±Öıÿÿÿÿ8äˆË/
+E
+java:S1172>"(Remove this unused method parameter "p".(ªµ”ı8äğü‡Ë/
+l
+java:S2095"IUse try-with-resources or close this "PrintWriter" in a "finally" clause.(ìï²Úşÿÿÿÿ8¾é«Ò/
+Z	java:S106t"9Replace this use of System.out or System.err by a logger.(—Ÿ£ÿÿÿÿÿ8˜ßöªÒ/
+Z	java:S106f"9Replace this use of System.out or System.err by a logger.(™†ş¹ûÿÿÿÿ8Š¡ôªÒ/
+Z	java:S106h"9Replace this use of System.out or System.err by a logger.(í­èÚşÿÿÿÿ8Š¡ôªÒ/
+Z	java:S106}"9Replace this use of System.out or System.err by a logger.(éÃÚ£üÿÿÿÿ8¾‹«Ò/

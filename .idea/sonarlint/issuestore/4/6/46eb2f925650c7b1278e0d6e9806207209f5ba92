@@ -1,3 +1,14 @@
 
+Z	java:S106;"9Replace this use of System.out or System.err by a logger.(ıˆŒµøÿÿÿÿ8¯Ÿ¨¡Ò/
+~
+java:S1488G"\Immediately return this expression instead of assigning it to the temporary variable "menu".(À¼ãøÿÿÿÿ8Ô¿ô Ò/
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(š¸Íùÿÿÿÿ8î¤¦¡Ò/
+>	java:S131-""Add a default case to this switch.(°€àâ8ì®Ÿ¡Ò/
+U	java:S106("9Replace this use of System.out or System.err by a logger.(‹€é8°·“¡Ò/
+T	java:S1063"9Replace this use of System.out or System.err by a logger.(îÔõ)8î¤¦¡Ò/
 v
 java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(·ßÎÇüÿÿÿÿ8§×ãÏÌ/
+U	java:S106)"9Replace this use of System.out or System.err by a logger.(­®§¨8°·“¡Ò/
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(æ‰Èï8î¤¦¡Ò/
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(—Ÿ£ÿÿÿÿÿ8¯Ÿ¨¡Ò/
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(ıÅÌ¶ÿÿÿÿÿ8ü¹¡¡Ò/

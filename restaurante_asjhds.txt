@@ -1,0 +1,23 @@
+Nombre restaurante: asjhds
+Teléfono restaurante: 65655
+Ubicación restaurante: assd
+Nit restaurante: 48575
+Menú restaurante: dominio.Menu@1ed4004b
+Nombre de usuario restaurante: asdas
+Contraseña restaurante: gdfgfg
+--------------------------------
+Menu 
+---------------------------------------------------
+Nombre plato: fsdfsd
+Descripcion plato: fdsfsd
+Precio plato: 45774.0
+---------------------------------------------------
+Nombre plato: gdfgdf
+Descripcion plato: hfghh
+Precio plato: 7785.0
+---------------------------------------------------
+Nombre bebida: dominio.Bebida@69ea3742
+Precio bebida: dominio.Bebida@69ea3742
+---------------------------------------------------
+Nombre bebida: dominio.Bebida@4b952a2d
+Precio bebida: dominio.Bebida@4b952a2d
